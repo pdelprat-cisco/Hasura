@@ -1,0 +1,3 @@
+name: Hasura
+runtime: nodejs
+description: Hasura Service
